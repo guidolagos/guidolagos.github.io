@@ -1,0 +1,288 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<link type="text/css" rel="stylesheet" href="style.css">
+
+<title>Guido Lagos academic webpage</title>
+
+# Guido Lagos
+#### Academic website
+
+<img src="pubs/uaivina.png" alt="UAI Vina"><br><img src="pubs/facepalm.jpg" style="max-width: 33%; height: auto;" alt="Guatemalo"><img src="pubs/meeting.png" style="max-width: 33%; height: auto;" alt="Meeting with Ton, 2016"><img src="pubs/harlem.jpg" style="max-width: 33%; height: auto;" alt="Pedaling through Harlem, 2016"><br><img src="pubs/meeting3.png" style="max-width: 33%; height: auto;" alt="Meeting with Javiera, 2017"><img src="pubs/reunion.png" style="max-width: 33%; height: auto;" alt="MMR 2025 talk"><img src="pubs/meeting2.png" style="max-width: 33%; height: auto;" alt="2015">
+
+**Assistant Professor**  
+[**Universidad Adolfo Ibanez, Vina del Mar campus**](https://ingenieria.uai.cl/assets/uploads/2020/04/plan-fic.pdf)  
+[Office A-225, Av. Padre Hurtado 750, Vina del Mar, Chile](https://goo.gl/maps/3ELiL7XssZWZfXxt9)
+
+**Contact:** guido dot lagos at uai dot cl  
+**Phone+Whatsapp:** [+56 9 8367 8158](https://wa.me/56983678158)  
+
+**Other profiles:**
+[Google Scholar](http://scholar.google.com/citations?user=1MyqMS4AAAAJ),
+[LinkedIn](http://www.linkedin.com/in/glagos/), 
+[ResearchGate](http://www.researchgate.net/profile/Guido_Lagos)
+
+
+
+# About me
+I'm an Assistant Professor at the [Faculty of Engineering of Sciences of Universidad Adolfo Ibanez (UAI)](https://ingenieria.uai.cl/assets/uploads/2020/04/plan-fic.pdf) at the [Vina del Mar campus](https://goo.gl/maps/3ELiL7XssZWZfXxt9). My research interests are in Applied Probability for Reliability Modeling, Stochastic Programming, and Computational Probability. I really enjoy programming and playing with computers and gadgets.
+
+Previously, from Mar 2018 to Mar 2021, I was a FONDECYT postdoctoral researcher at [the Operations Research group at UAI](http://mansci-web.uai.cl/).
+Also, from Oct 2018 to Apr 2020, I was an Assistant Researcher at the Industrial Engineering Department of the University of Santiago (USACH), and during all of 2017 I was a postdoc at the [Center for Mathematical Modeling, University of Chile](http://www.cmm.uchile.cl/).
+
+I have a PhD in Operations Research from [Georgia Tech](https://www.isye.gatech.edu/), Atlanta, GA, USA.
+My advisor was prof. [Ton Dieker](http://www.columbia.edu/~ad3217/) and broadly speaking our work was about mathematical guarantees for efficiency and accuracy of algorithms that simulate stochastic processes and specific events of them.
+During 2016 I was a visiting student/research staff at the [IEOR department, Columbia University](http://ieor.columbia.edu).
+In the past I worked with Prof. [Alexander Shapiro](http://www2.isye.gatech.edu/~ashapiro/) in multi-stage stochastic programming.
+
+I studied Mathematical Engineering (at the time, a Chilean equivalent to a USA Math B.Sc. + Applied Math M.Sc.) at the [Mathematical Engineering Dept.](http://www.dim.uchile.cl/) of [Universidad de Chile](http://www.uchile.cl/english), and also have a M.Sc. degree in Operations Management from [Industrial Engineering Dept.](http://www.dii.uchile.cl/), Universidad de Chile too.
+
+
+# Publications
+
+### In preparation
+
+*   *Efficient computation of sub-system means and signatures for black-box reliability systems.*   
+    G. Lagos, S. Avila.
+
+*   *General repair policies for reliability systems under simultaneous failures.*   
+    C. Reyes, G. Lagos, M. Bravo, S. Avila.
+
+
+### Submitted
+
+*   *Simple repair policies and decompositions for semi-coherent systems with simultaneous failures.* [[ArXiv preprint]](https://arxiv.org/abs/2601.08786)   
+    G. Lagos, J. Navarro, H. Olivero.
+
+*   *Scheduling of healthcare professionals using Bayesian Optimization.* [Preprint](https://optimization-online.org/wp-content/uploads/2022/11/Paper.pdf)   
+    F. Jara-Moroni, G. Lagos, R. Lagos, D. Machado, B. Saavedra, T. Torres.   
+    Submitted.   
+
+### Journal papers
+
+*   *Forecasting Outside the Box: Application-Driven Optimal Pointwise Forecasts for a Class of Two-Stage Stochastic Programs.* [[DOI]](https://doi.org/10.1007/s10107-026-02359-9) [[ArXiv preprint]](https://arxiv.org/abs/2411.03520)   
+    T. Homem-de-Mello, J. Valencia, F. Lagos, G. Lagos (2026).   
+    In journal [Mathematical Programming](https://link.springer.com/journal/10107).
+
+*   *Limiting behavior of mixed coherent systems with Levy-frailty Marshall-Olkin failure times.* [[DOI]](http://doi.org/10.1002/asmb.2893) [[Online read-only]](https://onlinelibrary.wiley.com/share/author/JEMPR6YD89EQK2TDAWCQ?target=10.1002/asmb.2893) [[ArXiv preprint]](https://arxiv.org/abs/2501.04659)   
+    J. Barrera, G. Lagos, P. Romero, J. Valencia (2024).   
+    In journal [Applied Stochastic Models for Business and Industry](http://doi.org/10.1002/asmb.2893).
+
+*   *Solving Constrained Consumption-Investment Problems by Decomposition Algorithms.* [[DOI]](https://doi.org/10.1016/j.ejor.2024.06.027)   
+    B.K. Pagnoncelli, T. Homem-de-Mello, G. Lagos, P. Castaneda, J. Garcia (2024).   
+    In journal [European Journal of Operational Research](https://www.sciencedirect.com/journal/european-journal-of-operational-research).
+
+*   *Constructing branching trees of geostatistical simulations.* [[DOI]](https://doi.org/10.1007/s11004-021-09984-4)    
+    M. Armstrong, J. Valencia, X. Emery, G. Lagos (2022).    
+    In journal [Mathematical Geosciences](https://www.springer.com/journal/11004).
+
+*   *Adaptive Open-pit Mining Planning under Geological Uncertainty.* [[DOI]](https://doi.org/10.1016/j.resourpol.2021.102086)     
+    M. Armstrong, X. Emery, T. Homem-de-Melo, G. Lagos, T. Lagos, D. Saure (2021).   
+    In journal [Resources Policy](https://www.sciencedirect.com/journal/resources-policy).
+
+*   *A framework for adaptive open-pit mining planning under geological uncertainty.* [[DOI]](https://doi.org/10.1007/s11081-020-09557-0)     
+    M. Armstrong, T. Homem-de-Melo, G. Lagos, T. Lagos, D. Saure (2020).   
+    In journal [Optimization and Engineering](https://www.springer.com/journal/11081).
+
+*   *Limit distributions of the upper order statistics for the conditionally-iid Marshall-Olkin distribution.* [[DOI]](https://doi.org/10.1007/s10687-020-00386-z) [[ArXiv preprint]](https://arxiv.org/abs/1811.06034)   
+    J. Barrera and G. Lagos (2020).  
+    In journal [Extremes](https://www.springer.com/journal/10687), 23, pp. 603-628.   
+
+*   *On the Euler discretization error of Brownian motion about random times.* [[ArXiv preprint]](https://arxiv.org/abs/1708.04356) [[**winner of the 2017 APS Student Paper Competition; see here**]](https://doi.org/10.1287/stsy.2018.0024)  
+    A.B. Dieker and G. Lagos (2017).  
+    Submitted.  
+
+*   *A Dichotomy for Sampling Barrier-Crossing Events of Random Walks with Regularly Varying Tails.* [[DOI]](https://doi.org/10.1017/jpr.2017.60) [[ArXiv preprint]](https://arxiv.org/abs/1703.00884)    
+    A.B. Dieker and G. Lagos (2016).  
+    In journal [Journal of Applied Probability](https://www.cambridge.org/core/journals/journal-of-applied-probability), Vol 54(4) pp. 1213-1232, December 2017.
+
+*   *Restricted risk measures and robust optimization.* [[DOI]](https://doi.org/10.1016/j.ejor.2014.09.024)  
+    G. Lagos, D. Espinoza, E. Moreno and J. P. Vielma (2015).  
+    In journal [European Journal of Operational Research](https://www.journals.elsevier.com/european-journal-of-operational-research), 241, pp. 771-782.
+
+### Conference proceedings
+
+*   *Approximations for the Levy-frailty Marshall-Olkin order statistics.* [[DOI]](https://doi.org/10.1109/WSC48552.2020.9383929)   
+    J. Barrera and G. Lagos (2020).   
+    [Winter Simulation Conference 2020](http://meetings2.informs.org/wordpress/wsc2020/); December 13-16 Orlando, FL, USA.   
+
+*   *On the Reliability of Dynamic Stochastic Binary Systems.* [[DOI]](https://doi.org/10.1007/978-3-030-64583-0_46)   
+    G. Lagos and P. Romero (2020).   
+    [6th International Conference on Machine Learning, Optimization, and Data Science (LOD 2020)](https://lod2020.icas.xyz/); July 19-23, 2020, Tuscany, Italy.
+
+*   *Risk averse approaches in open-pit production planning under ore grade uncertainty: a Ultimate Pit study.* [[Preprint]](pubs/apcom2013.pdf)  
+    D. Espinoza, G. Lagos, E. Moreno and J. P. Vielma (2013).  
+    Proceedings of the 36th International Symposium on Application of Computers and Operations Research in The Mineral Industry (APCOM 2013).
+
+*   *Robust Planning for an Open-Pit Mining Problem under Ore-Grade Uncertainty.* [[DOI]](https://doi.org/10.1016/j.endm.2011.05.004)  
+    G. Lagos, D. Espinoza, E. Moreno and J. Amaya (2011).  
+    LAGOS'11 – VI Latin-American Algorithms, Graphs and Optimization Symposium.
+
+### Theses
+
+*   [*Accuracy and efficiency of barrier-hitting and extreme event simulation.*](http://hdl.handle.net/1853/59746)   
+    Ph.D. thesis (2017).   
+    Advisor: [Ton Dieker](http://www.columbia.edu/~ad3217/)
+
+*   [*Estudio de metodos de optimizacion robusta para el problema de planificacion de produccion en mineria a cielo abierto.*](http://repositorio.uchile.cl/handle/2250/102681)   
+    M.Sc. thesis (2011).   
+    Advisors: [Daniel Espinoza](https://www.linkedin.com/in/daniel-espinoza-g-20b797159/) and [Eduardo Moreno](https://emoreno.uai.cl/)
+
+
+# Grants & Distinctions
+
+*   Co-investigator in [FONDECYT Regular grant](https://anid.cl/proyectos-de-investigacion/fondecyt-regular/) with project # 1231207, ANID Chile. Apr 2023-Mar 2027.
+
+*   Principal investigator in [FONDECYT de Iniciacion en Investigation grant](https://www.anid.cl/concursos/concurso/?id=1011) with project # 11230256, ANID Chile. It funded  my research activities over the period Mar 2023-Mar 2026.
+
+*   Principal investigator in [FONDECYT Postdoctoral Research grant](http://www.conicyt.cl/fondecyt/2016/09/06/concurso-postdoctorado-2018/) with project # 3180767, CONICYT Chile. It funded  my research activities over the period Mar 2018-Mar 2021.
+
+*   [Best Student Paper Award](https://doi.org/10.1287/stsy.2018.0024) of the [INFORMS Applied Probability Society](https://www.informs.org/Community/APS), October 2017.
+For my paper on [discretization of Brownian motion](https://arxiv.org/abs/1708.04356).
+The authors of the three other finalist papers were [Zhengyuan Zhou of Stanford](http://web.stanford.edu/~zyzhou/), [Andrew Li of MIT](http://www.mit.edu/~aali/), and [Thodoris Lykouris](http://www.cs.cornell.edu/~teddlyk/) and [Daniel Freund](http://danielfreund.strikingly.com/) of Cornell.
+
+*   Algorithms & Randomness Center (ARC) Student Fellowship, Georgia Tech, Fall 2014.
+
+*   Kiplinger Fellowship, Georgia Tech, August 2011 and August 2012.
+
+*   Becas Chile-CONICYT Ph.D. abroad scholarship, Chile, November 2010.
+
+
+
+# Talks
+
+*   *Efficient computation of mean time-to-failure and signatures at all states of a system*  
+
+    [Asia-Pacific International Symposium on Advanced Reliability and Maintenance Modeling (APARM) 2026](https://www.aparm2026.com/) (Singapore, July 2026)
+
+*   *Simple v/s non-simple repair policies for coherent systems with simultaneous failures*  
+
+    Department of Systems Engineering Seminar (City University of Hong Kong, Hong Kong, February 2026) //
+    Institute of Data Sciences Seminar (National Cheng Kung University, Taiwan, February 2026) //
+    [International Conference on Reliability, Maintainability and Safety (ICRMS 2025)](https://www.aconf.org/conf_212649.html) (Shanghai University, Shanghai, China, July 2025) //
+    [International Conference on Mathematical Methods in Reliability (MMR 2025)](https://mmr2025.sciencesconf.org/) (Universidad Adolfo Ibanez, Vina del Mar, Chile, June 2025) //
+    [Symposium on Games and Decisions in Reliability and Risk (GDRR 8)](https://dec.unibocconi.eu/8GDRR) (Bocconi University, Milan, Italy, May 2025) //
+    [Reliability and Maintainability Lab Seminar, University of Electro-Communications](https://rm.inf.uec.ac.jp/) (Tokyo, Japan, February 2025) //
+    [Workshop on Optimization and Algorithms (WOA) 2024](https://sites.google.com/view/woa-2024/home)(Renaca, Chile, December 2024) //
+    [INFORMS Annual Meeting 2024](https://meetings.informs.org/wordpress/seattle2024/) (Seattle, WA, USA, October 2024) //
+    [Asia-Pacific International Symposium on Advanced Reliability and Maintenance Modeling (APARM) 2024](https://aparm2024-conf.github.io/info/) (Nagoya, Japan, August 2024)
+
+*   *System reliability and approximations of the Levy-frailty Marshall-Olkin distribution*  
+
+    [IFORS 2023](https://www.ifors.org/ifors-triennial-conferences/) (Santiago, Chile, July 2023) //
+    [Applied Probability Society Conference 2023](https://informs-aps2023.event.univ-lorraine.fr/) (Nancy, France, June 2023) //
+    [International Conference on Mathematical Methods in Reliability (MMR 2023)](https://eventos.um.es/89366/detail/mmr2023-12th-international-conference-on-mathematical-methods-in-reliability.html), Universidad de Murcia (Spain, May 2023) //
+    [USACH MCI Workshop](https://sites.google.com/usach.cl/seminarioiseindustrias/) (Santiago, Chile, December 2022) //
+    [INFORMS Annual Meeting 2022](https://meetings.informs.org/wordpress/indianapolis2022/) (Indianapolis, IN, USA, July 2022) //
+    [Winter Simulation Conference 2020](http://meetings2.informs.org/wordpress/wsc2020) (virtual meeting, December 2020)
+
+
+*   *Systemic risk and network reliability: asymptotic analysis and confidence bounds*  
+
+    [INFORMS Applied Probability Society Conference](https://informs-aps.smp.uq.edu.au/) (Brisbane, Australia, July 2019) //
+    [2019 Reliability and Resiliency in Network Infrastructure Workshop](https://eventos.cmm.uchile.cl/reliability2019/) (Santiago, Chile, January 2019) //
+    Science Park Informal Probability Seminar at [Centrum Wiskunde & Informatica (CWI)](https://www.cwi.nl/) (Amsterdam, The Netherlands, December 2018) //
+    [Industrial & Systems Engineering Seminar](https://sites.google.com/usach.cl/seminarioindustrias), Industrial Engineering Department, University of Santiago (Chile, November 2018) //
+    [INFORMS Annual Meeting 2018](http://meetings2.informs.org/wordpress/phoenix2018/) (Phoenix, AZ, USA, November 2018) // Seminario [Instituto de Ingenieria Matematica y Computational (IMC)](https://imc.uc.cl), Pontificia Universidad Catolica (PUC) (Chile, August 2018) //
+    Seminario de Ingenieria Industrial e Investigacion de Operaciones (DIIIO), Universidad Adolfo Ibanez (Chile, July 2018) //
+    Seminario [Instituto de Sistemas Complejos de Ingenieria (ISCI)](http://www.isci.cl/), Universidad de Chile (Chile, July 2018)
+
+
+*   *Limit distributions and random walk approximations*  
+
+    Seminario Depto. de Ingenieria Matematica, Universidad Tecnica Federico Santa Maria (UTFSM) (Chile, May 2018) //
+    Seminario Depto. de Ingenieria Industrial, Universidad de Concepcion (Chile, December 2017) //
+    [XII Chilean conference on Operations Research (OPTIMA 2017)](http://www.optima2017.cl/) (Universidad Adolfo Ibanez, Chile, November 2017) //
+    Science Park Informal Probability Seminar at [Centrum Wiskunde & Informatica (CWI)](https://www.cwi.nl/) (Amsterdam, The Netherlands, November  2017) //
+    [2017 INFORMS Annual Meeting (Houston, TX, USA; October 2017)](http://meetings2.informs.org/wordpress/houston2017/) //
+    Institute for Math, Universidad de Valparaiso (Chile, July 2017) //
+    Industrial Engineering and Operations Research (IEOR) Seminar, Universidad Adolfo Ibanez (Chile, April 2017) //
+    Seminario [Stochastic Models of Complex and Disordered Systems (MESCD)](http://nm.cmm.uchile.cl/) at the [Center for Mathematical Modeling, Universidad de Chile](http://www.cmm.uchile.cl/) (Chile, March 2017) //
+    [INFORMS Applied Probability Society Conference (Chicago, IL, USA; July 2017)](http://www.kellogg.northwestern.edu/departments/operations/events/informs.aspx) [[pdf]](pubs/APS2017.pdf) [[gif]](pubs/APS2017.gif) //
+    "Applied Probability for Lunch--OR PIC" Seminar at [IBM TJ Watson Research Center (Yorktown Heights, NY, USA; November 2016)](http://www.watson.ibm.com/)
+
+*   *Sampling rare events of random walks with regularly varying increments: a dichotomy*  
+
+    [2014 INFORMS Annual Meeting (San Francisco, CA, USA; November 2014)](http://meetings2.informs.org/sanfrancisco2014/) [[pdf]](pubs/INFORMS2014.pdf)
+
+*   *An introduction to Stochastic Dual Dynamic Programming (SDDP) method for multi-stage stochastic programming*  
+
+    Part of a presentation with [Wajdi Tekaya](http://www2.isye.gatech.edu/~wtekaya3/) for the course [ISyE 8813 *Stochastic programming*, prof. Shabbir Ahmed, 2011](http://www2.isye.gatech.edu/~sahmed/teaching.html) [[pdf]](pubs/SDDPISyE8813.pdf)
+
+*   *Risk-averse open-pit mining production planning*  
+
+    [2012 INFORMS Annual Meeting (Phoenix, AZ, USA; October 2012)](http://meetings2.informs.org/phoenix2012) [[pdf]](pubs/miningINFORMS2012.pdf) //
+    AGCO seminar, [DII, Universidad de Chile](http://www.dii.uchile.cl/), 2011 [[pdf]](pubs/miningAGCO2011.pdf) //
+    [ALIO-INFORMS Joint International Meeting 2010, Argentina](http://meetings2.informs.org/buenosaires2010)
+
+
+
+# Service
+
+*   Chief co-organizer, ["13th International Conference on Mathematical Methods in Reliability"](https://mmr2025.sciencesconf.org/) (June 2025; Vina del Mar, Chile)
+
+*   Workshop co-organizer, ["Reliability and Resiliency in Network Infrastructure: Simulation, Optimization & Analysis"](http://eventos.cmm.uchile.cl/reliability2019/) (January 2019; Santiago, Chile)
+
+*   Session organizer at the INFORMS Annual Meeting 2018 conference, in the Applied Probability Society track  (November 2018; Phoenix, AZ, USA)
+
+*   Seminar/reading group organizer: [Seminario DIIIO, Universidad Adolfo Ibanez](https://ingenieria.uai.cl/phd/diiio/seminarios/) // [Industrial & Systems Engineering Seminar, Industrial Engineering Department, University of Santiago (2018-)](https://sites.google.com/usach.cl/seminarioindustrias) // Data Sciences Reading Group at Universidad Adolfo Ibanez (2017-2018) // Student Applied Proability Seminar, at Columbia University on 2016 and at Georgia Tech on 2014-2015.
+
+*   Reviewer: IEEE Transactions in Reliability, Journal of Applied Probability, Operations Research, Stochastic Models, Annals of Operations Research, PLOS One
+
+
+# Thesis Students
+
+### MSc
+
+*   Expected in 2027
+    *   [Sebastian Lebuy](https://www.linkedin.com/in/sebastian-lebuy-rojas-27b49b38a/) and [Fernanda Sanchez](https://www.linkedin.com/in/fernandasanchezp/) (MSc in Sciences of Engineering, UAI)
+
+*   Expected in 2026
+    *   Cristobal Reyes (MSc in Industrial Engineering and Operations Research, UAI)
+    *   [Camila Opitz](https://www.linkedin.com/in/camila-opitz-camino-843994332/), [Simon Avila](https://www.linkedin.com/in/simon-avila-r/) and [Daniel Kennison](https://www.linkedin.com/in/daniel-kennison-b09757384/) (MSc in Sciences of Engineering, UAI)
+
+*   2026
+    *   [Cristofer Lizama](https://www.linkedin.com/in/cristofer-lizama-48305b297/) (MSc in Industrial Engineering and Operations Research, UAI)
+
+*    2025
+    *   [Lucas Acuna](https://www.linkedin.com/in/lucas-acuna-garcia/) and [Thomas Sanchez](https://www.linkedin.com/in/thomas-s%C3%A1nchez-pezo-855255345/) (MSc in Industrial Engineering and Operations Research, UAI)
+    *   [Sebastian Esparza](https://www.linkedin.com/in/sebasti%C3%A1n-esparza-vergara-22555b258/) (MSc in Sciences of Engineering, UAI)
+
+*    2024
+    *   [Catalina Gajardo](https://www.linkedin.com/in/catalina-gajardo-lobos-949178282/) (MSc in Sciences of Engineering, UAI)
+    *   [Ignacio Lizama](https://www.linkedin.com/in/ignacio-lizama-guti%C3%A9rrez-23188027a/) (MSc in Industrial Engineering and Operations Research, UAI)
+
+*    2023
+    *   [Constanza Briones](https://www.linkedin.com/in/cbrionescapiccelli/) (MSc in Sciences of Engineering, UAI)
+
+*    2022
+    *   [Diego Machado Vasquez](https://www.linkedin.com/in/dieguliomachado/), [Bastian Saavedra Cornejo](https://www.linkedin.com/in/bastiansaavedra/) and [Tomas Torres Escaff](https://www.linkedin.com/in/tom%C3%A1s-torres-escaff-269678195/) (MSc in Industrial Engineering, USACH)
+
+### Undergraduate
+
+*   Cristobal Reyes (2023, Mathematical Engineering, Universidad de Valparaiso)
+*   [Juan Valencia Lopez (2021, Industrial Engineering, USACH)](https://www.linkedin.com/in/juan-valencia-42bba0185/)
+
+
+# Teaching
+
+*    Supply Chain Management (Universidad Adolfo Ibanez; Autumn 2024, Spring 2024, Autumn 2025, Spring 2025, Autumn 2026)    
+*    Operations Management (Universidad Adolfo Ibanez; Autumn 2024, Spring 2024, Spring 2025)
+*    Stochastic Programming (Universidad Adolfo Ibanez; Spring 2023)
+*    Advanced Operations Management (Universidad Adolfo Ibanez; Spring 2022)    
+*    Operations Research (Universidad Adolfo Ibanez; Autumn 2021, Spring 2021, Spring 2022, Spring 2023)   
+*    Optimization (Universidad Adolfo Ibanez; Autumn 2022, Autumn 2023)   
+*    Advanced Simulation (Universidad Adolfo Ibanez; Spring 2017)    
+*    Stochastic Models (Universidad de Santiago; Fall and Spring 2019, Fall and Spring 2020)    
+*    ISyE 3232 Stochastic manufacturing and service systems (Georgia Tech; Spring 2015)    
+
+
+*   Graduate Teaching Assistant:   
+
+    *    ISYE 3232 Stochastic manufacturing and service systems (Georgia Tech, Summer 2014)   
+    *    ISyE 6565 Probabilistic models (Georgia Tech, Fall 2012)   
+    *    ISyE 3133 Engineering optimization (Gergia Tech, Summer 2012)
+
+* * *
+
+
+Last modified: Fri May 15th, 2026 // Made using [*Markdown*](http://daringfireball.net/projects/markdown/)
