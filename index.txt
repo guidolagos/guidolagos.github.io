@@ -41,23 +41,27 @@ I studied Mathematical Engineering (at the time, a Chilean equivalent to a USA M
 
 ### In preparation
 
-*   *Efficient computation of sub-system means and signatures for black-box reliability systems.*   
-    G. Lagos, S. Avila.
+*   *Signature decomposition and computation of repair policies for exchangeable failure models.*   
+    G. Lagos, H. Olivero.
 
-*   *General repair policies for reliability systems under simultaneous failures.*   
-    C. Reyes, G. Lagos, M. Bravo, S. Avila.
+*   *Accurate estimation of the signature of large monotone systems.*   
+    G. Lagos, S. Avila, G. Contador.
+
+*   *Per-State Signatures and Mean Time-to-Failure: An Algorithm for Systems With Simultaneous Failures.*   
+    G. Lagos, S. Avila.
 
 
 ### Submitted
-
-*   *Simple repair policies and decompositions for semi-coherent systems with simultaneous failures.* [[ArXiv preprint]](https://arxiv.org/abs/2601.08786)   
-    G. Lagos, J. Navarro, H. Olivero.
 
 *   *Scheduling of healthcare professionals using Bayesian Optimization.* [Preprint](https://optimization-online.org/wp-content/uploads/2022/11/Paper.pdf)   
     F. Jara-Moroni, G. Lagos, R. Lagos, D. Machado, B. Saavedra, T. Torres.   
     Submitted.   
 
 ### Journal papers
+
+*   *Simple repair policies and decompositions for semi-coherent systems with simultaneous failures.* [[DOI]](https://doi.org/10.1016/j.ress.2026.113525) [[ArXiv preprint]](https://arxiv.org/abs/2601.08786)   
+    G. Lagos, J. Navarro, H. Olivero (2026).   
+    In [Journal of Reliability Engineering and System Safety](https://www.sciencedirect.com/journal/reliability-engineering-and-system-safety).
 
 *   *Forecasting Outside the Box: Application-Driven Optimal Pointwise Forecasts for a Class of Two-Stage Stochastic Programs.* [[DOI]](https://doi.org/10.1007/s10107-026-02359-9) [[ArXiv preprint]](https://arxiv.org/abs/2411.03520)   
     T. Homem-de-Mello, J. Valencia, F. Lagos, G. Lagos (2026).   
@@ -234,7 +238,7 @@ The authors of the three other finalist papers were [Zhengyuan Zhou of Stanford]
 ### MSc
 
 *   Expected in 2027
-    *   [Sebastian Lebuy](https://www.linkedin.com/in/sebastian-lebuy-rojas-27b49b38a/) and [Fernanda Sanchez](https://www.linkedin.com/in/fernandasanchezp/) (MSc in Sciences of Engineering, UAI)
+    *   [Sebastian Lebuy](https://www.linkedin.com/in/sebastian-lebuy-rojas-27b49b38a/), [Fernanda Sanchez](https://www.linkedin.com/in/fernandasanchezp/) and Maria-Ignacia Burgos Soto (MSc in Sciences of Engineering, UAI)
 
 *   Expected in 2026
     *   Cristobal Reyes (MSc in Industrial Engineering and Operations Research, UAI)
@@ -266,7 +270,7 @@ The authors of the three other finalist papers were [Zhengyuan Zhou of Stanford]
 # Teaching
 
 *    Supply Chain Management (Universidad Adolfo Ibanez; Autumn 2024, Spring 2024, Autumn 2025, Spring 2025, Autumn 2026)    
-*    Operations Management (Universidad Adolfo Ibanez; Autumn 2024, Spring 2024, Spring 2025)
+*    Operations Management (Universidad Adolfo Ibanez; Autumn 2024, Spring 2024, Spring 2025, Spring 2026)
 *    Stochastic Programming (Universidad Adolfo Ibanez; Spring 2023)
 *    Advanced Operations Management (Universidad Adolfo Ibanez; Spring 2022)    
 *    Operations Research (Universidad Adolfo Ibanez; Autumn 2021, Spring 2021, Spring 2022, Spring 2023)   
@@ -285,4 +289,4 @@ The authors of the three other finalist papers were [Zhengyuan Zhou of Stanford]
 * * *
 
 
-Last modified: Fri May 15th, 2026 // Made using [*Markdown*](http://daringfireball.net/projects/markdown/)
+Last modified: Thu Oct 8th, 2026 // Made using [*Markdown*](http://daringfireball.net/projects/markdown/)
